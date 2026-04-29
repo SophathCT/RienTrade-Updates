@@ -1,7 +1,7 @@
 {
-    "version": "0.01",
-    "url": "https://github.com/SophathCT/Gold-EA-Updates/releases/download/v0.01/ReanBot.exe",
-    "changelog": "✨ New Features:\n• Added Strategy C option\n• Improved grid calculations\n\n🐛 Bug Fixes:\n• Fixed spread filter issue\n• Fixed margin calculation\n\n⚡ Performance:\n• Faster chart updates\n• Reduced memory usage",
-    "release_date": "2026-04-19",
+    "version": "0.1.0",
+    "url": "https://github.com/SophathCT/RienTrade-Updates/releases/download/v0.1.0/RienTradeBot.exe",
+    "changelog": "🚀 Version 0.1.0 - Beta Testing\n\n✨ New Features:\n• MT5 Multi-Strategy trading bot\n• Strategy C (ICT-based signals)\n• Auto update system\n\n🐛 Bug Fixes:\n• Stable WebSocket connection\n• Improved margin calculation\n\n⚡ Performance:\n• Optimized chart rendering\n• Reduced memory usage",
+    "release_date": "2026-04-29",
     "hash": ""
 }
